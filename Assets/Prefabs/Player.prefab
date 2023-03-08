@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8461583255425924006}
   - component: {fileID: 8461583255425924005}
   m_Layer: 0
-  m_Name: download-removebg-preview
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

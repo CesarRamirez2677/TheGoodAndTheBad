@@ -217,7 +217,7 @@ Transform:
   m_LocalScale: {x: 18.001041, y: 9.965063, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &167751300
 MonoBehaviour:
@@ -264,8 +264,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 3
-  repeatTimeToSpawn: 10
+  initialTimeToSpawn: 10
+  repeatTimeToSpawn: 22
 --- !u!212 &178557922
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -324,12 +324,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 178557920}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.37, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.5393357, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &225267814
 GameObject:
@@ -362,8 +362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 2
-  repeatTimeToSpawn: 27
+  initialTimeToSpawn: 10
+  repeatTimeToSpawn: 31
 --- !u!212 &225267816
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -422,12 +422,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 225267814}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.47, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -6.300664, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &251262371
 GameObject:
@@ -460,8 +460,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 3
-  repeatTimeToSpawn: 17
+  initialTimeToSpawn: 15
+  repeatTimeToSpawn: 99
 --- !u!212 &251262373
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -520,12 +520,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 251262371}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.18, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.0106645, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &354011320
 GameObject:
@@ -558,8 +558,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 1
-  repeatTimeToSpawn: 15
+  initialTimeToSpawn: 20
+  repeatTimeToSpawn: 11
 --- !u!212 &354011322
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -618,12 +618,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 354011320}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.97, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 6.1393356, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -708,6 +708,43 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &596216505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 596216506}
+  m_Layer: 0
+  m_Name: Spawners
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &596216506
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 596216505}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.8306643, y: 2.7078705, z: -50.44248}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1571525700}
+  - {fileID: 225267817}
+  - {fileID: 251262374}
+  - {fileID: 1872733418}
+  - {fileID: 2123752077}
+  - {fileID: 178557923}
+  - {fileID: 354011323}
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1571525697
 GameObject:
   m_ObjectHideFlags: 0
@@ -739,8 +776,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 1
-  repeatTimeToSpawn: 22
+  initialTimeToSpawn: 2
+  repeatTimeToSpawn: 55
 --- !u!212 &1571525699
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -799,12 +836,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1571525697}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.82, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -8.650664, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1872733415
 GameObject:
@@ -837,8 +874,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 1
-  repeatTimeToSpawn: 10
+  initialTimeToSpawn: 20
+  repeatTimeToSpawn: 77
 --- !u!212 &1872733417
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -897,12 +934,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1872733415}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.32, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5106642, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2042483885 stripped
 GameObject:
@@ -952,8 +989,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   obstacleToGenerate: {fileID: 5900866228119154383, guid: 15395a7dab1bc0f4b9bb8352b15c61b2, type: 3}
-  initialTimeToSpawn: 2
-  repeatTimeToSpawn: 10
+  initialTimeToSpawn: 1
+  repeatTimeToSpawn: 44
 --- !u!212 &2123752076
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1012,12 +1049,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2123752074}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.87, y: 8.33, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1.0393356, y: 5.6221294, z: 50.44248}
   m_LocalScale: {x: 1.9, y: 0.35859373, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_Father: {fileID: 596216506}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &8461583256551094116
 PrefabInstance:
@@ -1028,7 +1065,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8461583255425924001, guid: dfeb8f7ff76ca3a4ca72e9a0f7b81a95, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8461583255425924001, guid: dfeb8f7ff76ca3a4ca72e9a0f7b81a95, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1072,11 +1109,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8461583255425924004, guid: dfeb8f7ff76ca3a4ca72e9a0f7b81a95, type: 3}
       propertyPath: m_Name
-      value: download-removebg-preview
+      value: Background
       objectReference: {fileID: 0}
     - target: {fileID: 8461583255425924005, guid: dfeb8f7ff76ca3a4ca72e9a0f7b81a95, type: 3}
       propertyPath: playerVelocity
-      value: 0.05
+      value: 0.03
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dfeb8f7ff76ca3a4ca72e9a0f7b81a95, type: 3}
